@@ -1,4 +1,4 @@
-Linux:
+#Linux:
 
 - sudo apt update
 - sudo apt install qtcreator
@@ -9,13 +9,13 @@ Linux:
   
   Execute binary
 
-macOS:
+#macOS:
 
 Install Qt (brew install qt).
 Run qmake, then make.
 Run the binary or .app.
 
-Windows:
+#Windows:
 
 Install the Qt libraries.
 Run qmake and make from the Qt terminal.
