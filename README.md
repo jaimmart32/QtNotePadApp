@@ -6,6 +6,7 @@ Linux:
 - qtcreator
 - qmake
 - make
+  
   Execute binary
 
 macOS:
